@@ -1,6 +1,6 @@
 /*
 (1081ms)
-这个方法是在discuss中看到的，提交时确实比方法一稍微快些，目前还不能看懂
+这个方法是在discuss中看到的，提交时确实比方法一稍微快些
 */
 select distinct Num as ConsecutiveNums
 from
